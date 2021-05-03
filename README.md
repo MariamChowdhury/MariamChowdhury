@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="mariamchowdhury" /> </p>
 
 - 💬 Ask me about **anything !**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mariam-chowdhury-1660a8211/)
-- 📄 Check my [resume](https://drive.google.com/file/d/1l-Cw77uzq5vvmsxc3dZO4nrL5Gg0lEeo/view?usp=sharing)
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
