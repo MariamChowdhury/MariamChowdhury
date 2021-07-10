@@ -12,6 +12,7 @@
 ![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamchowdhury&show_icons=true&theme=react)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariamchowdhury&theme=react" alt="mariamchowdhury" /></p>
+<br>
 
 [![Mariam's github activity graph](https://activity-graph.herokuapp.com/graph?username=mariamchowdhury&theme=react-dark)](https://github.com/mariamchowdhury/github-readme-activity-graph)
 
